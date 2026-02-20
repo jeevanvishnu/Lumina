@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "composite": true,
+     "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "tsBuildInfoFile": "node_modules/.cache/vite/tsconfig.node.buildinfo",
+    "types": ["node"]
+  },
+  "include": ["vite.config.ts"]
+}
